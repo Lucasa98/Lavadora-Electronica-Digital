@@ -1,0 +1,7 @@
+v 3
+file . "delay.vhd" "20220628020614.000" "20220627230621.265":
+  entity delay at 1( 0) + 0 on 21;
+  architecture arch_delay of delay at 14( 292) + 0 on 22;
+file . "delay_tb.vhd" "20220628020456.000" "20220627230644.686":
+  entity delay_tb at 1( 0) + 0 on 23;
+  architecture arch_delay_tb of delay_tb at 8( 114) + 0 on 24;
